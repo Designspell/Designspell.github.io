@@ -1,0 +1,223 @@
+.version.index /* version checker */
+{
+	color: #00000B;
+	background-color: #DA38D3;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#page
+{
+	background-color: transparent;
+	z-index: 1;
+	min-height: 500px;
+	border-width: 0px;
+	border-color: #000000;
+	margin-left: auto;
+	width: 100%;
+	background-image: none;
+	margin-right: auto;
+}
+
+#u193_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#u94
+{
+	background-color: transparent;
+	z-index: 3;
+	position: relative;
+}
+
+#u94_img
+{
+	width: 100%;
+}
+
+#u193,#u193-bw
+{
+	z-index: 2;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 601px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 1400px;
+	}
+
+	#u193
+	{
+		min-height: 481px;
+		padding-bottom: 44px;
+	}
+
+	#u94
+	{
+		margin-right: -10000px;
+		margin-top: 20px;
+		width: 46.58%;
+	}
+
+	#u126-4
+	{
+		z-index: 5;
+		min-height: 53px;
+		background-color: transparent;
+		font-size: 34px;
+		color: #FFFFFF;
+		line-height: 41px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 224px;
+		width: 35.43%;
+		margin-left: 64.58%;
+		left: -252px;
+	}
+
+	#u193-bw
+	{
+		min-height: 481px;
+	}
+}
+
+@media (min-width: 321px) and (max-width: 600px)
+{
+	#muse_css_mq
+	{
+		background-color: #000258;
+	}
+
+	#bp_600.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 600px;
+	}
+
+	#u193_align_to_page
+	{
+		padding-top: 20px;
+		padding-bottom: 28px;
+	}
+
+	#u94
+	{
+		width: 100%;
+	}
+
+	#u126-4
+	{
+		z-index: 5;
+		min-height: 53px;
+		background-color: transparent;
+		font-size: 34px;
+		color: #FFFFFF;
+		line-height: 41px;
+		position: relative;
+		width: 77.84%;
+		margin-left: 22.17%;
+		left: -67px;
+	}
+
+	#u193,#u193-bw
+	{
+		min-height: 525px;
+	}
+}
+
+@media (max-width: 320px)
+{
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 320px;
+	}
+
+	#u193
+	{
+		min-height: 524.95px;
+		padding-bottom: 0px;
+	}
+
+	#u193_align_to_page
+	{
+		padding-top: 20px;
+		padding-bottom: 189px;
+	}
+
+	#u94
+	{
+		width: 100%;
+	}
+
+	#u228-4
+	{
+		z-index: 5;
+		min-height: 53px;
+		background-color: transparent;
+		font-size: 18px;
+		color: #FFFFFF;
+		line-height: 22px;
+		margin-top: 37px;
+		position: relative;
+		width: 74.69%;
+		margin-left: 25.32%;
+		left: -35px;
+	}
+
+	#u193-bw
+	{
+		min-height: 524.95px;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+}
+
