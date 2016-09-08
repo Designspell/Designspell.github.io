@@ -1,25 +1,24 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bombayventures.at" resolutions="1x" timestamp="1472226960765">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bombayventures.at" resolutions="1x" timestamp="1473363181309">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="341127851" ref="index:about:services:contact:our-work:portfolio"/>
-    <file name="index.css" crc="4029326873" ref="index"/>
-    <file name="about.css" crc="513637839" ref="about"/>
+    <file name="master_a-master.css" crc="4277662564" ref="index:services:our-work:portfolio:about:contact"/>
+    <file name="index.css" crc="4173369132" ref="index"/>
     <file name="services.css" crc="4017991862" ref="services"/>
-    <file name="contact.css" crc="3876618072" ref="contact"/>
-    <file name="our-work.css" crc="63184448" ref="our-work"/>
+    <file name="our-work.css" crc="342183995" ref="our-work"/>
     <file name="portfolio.css" crc="3803785827" ref="portfolio"/>
+    <file name="about.css" crc="3784462904" ref="about"/>
+    <file name="contact.css" crc="3876618072" ref="contact"/>
   </folder>
   <folder name="assets">
-    <file name="bg-texture.jpg" crc="4085418770" seo="true" mt="1471420973000"/>
-    <file name="479362124.mp4" crc="4113363189" seo="true" mt="1471417295000"/>
     <file name="503475894.mp4" crc="3830043497" seo="true" mt="1471417190000"/>
-    <file name="ventures-01.png" crc="304212298" seo="true" mt="1472039850000"/>
-    <file name="insights-01.png" crc="4061013182" seo="true" mt="1472037413000"/>
-    <file name="llp-01.png" crc="3971440379" seo="true" mt="1472040267000"/>
     <file name="bigdata-01.png" crc="4262999349" seo="true" mt="1472149931000"/>
     <file name="consumer-goods-01.png" crc="4004825747" seo="true" mt="1472150216000"/>
     <file name="hardware-01.png" crc="481512412" seo="true" mt="1472150887000"/>
     <file name="tarpa1-01.png" crc="4272103993" seo="true" mt="1471955579000"/>
+    <file name="insights-01-01.png" crc="4181420020" seo="true" mt="1472145354000"/>
+    <file name="llp-01.png" crc="3971440379" seo="true" mt="1472040267000"/>
+    <file name="ventures-01.png" crc="304212298" seo="true" mt="1472039850000"/>
+    <file name="mumbai---a-short-time-lapse-film-(1080p_25fps_h264-128kbit_aac)_x264.mp4" crc="477886575" seo="true" mt="1473361774000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about:contact:our-work:services:portfolio"/>
@@ -46,8 +45,6 @@
     <file name="portfolio button-u573-r-fr.png" crc="3925548513" ref="index"/>
     <file name="portfolio button-u573-a-fr.png" crc="136061735" ref="index"/>
     <file name="logo-u226.png" crc="3908549412" ref="index:about:contact:our-work:services:portfolio"/>
-    <file name="u800-9.png" crc="91630040" ref="index"/>
-    <file name="quote mark-01.png" crc="3947630309" seo="true" ref="index"/>
     <file name="twitter.svg" crc="4033200823" seo="true" ref="index:about:contact:our-work:services:portfolio"/>
     <file name="twitter_poster_.png" crc="4054817622" ref="index"/>
     <file name="facebook.svg" crc="4242405670" seo="true" ref="index:about:contact:our-work:services:portfolio"/>
@@ -59,10 +56,10 @@
     <file name="request button-u1254-fr.png" crc="30623969" ref="portfolio"/>
     <file name="request button-u1254-r-fr.png" crc="239148565" ref="portfolio"/>
   </folder>
-  <file name="index.html" crc="386853292" seo="true" mt="1472150037421" redirect="true"/>
-  <file name="about.html" crc="518914150" seo="true" mt="1472150037421" redirect="true"/>
-  <file name="contact.html" crc="4237914801" seo="true" mt="1472152020386" redirect="true"/>
-  <file name="our-work.html" crc="4012010810" seo="true" mt="1472226550956" redirect="true"/>
-  <file name="services.html" crc="4149613435" seo="true" mt="1472150037421" redirect="true"/>
-  <file name="portfolio.html" crc="4066688871" seo="true" mt="1472226844458" redirect="true"/>
+  <file name="index.html" crc="125320854" seo="true" mt="1473361794030" redirect="true"/>
+  <file name="about.html" crc="4074379921" seo="true" mt="1473362905307" redirect="true"/>
+  <file name="contact.html" crc="50862409" seo="true" mt="1472152020386" redirect="true"/>
+  <file name="our-work.html" crc="237820471" seo="true" mt="1473362798863" redirect="true"/>
+  <file name="services.html" crc="307444058" seo="true" mt="1472150037421" redirect="true"/>
+  <file name="portfolio.html" crc="322213732" seo="true" mt="1472226844458" redirect="true"/>
 </manifest>
