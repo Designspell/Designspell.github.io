@@ -2,85 +2,271 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bombayventures.at/index.html</loc>
-    <lastmod>2016-09-09</lastmod>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/business.html</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/company-a.html</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/consumer.html</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/iot.html</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/big-data.html</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/insight.html</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/public-pvt.html</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/ventures.html</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bombayventures.at/portfolio.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bombayventures.at/services.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bombayventures.at/our-work.html</loc>
-    <lastmod>2016-09-09</lastmod>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bombayventures.at/contact.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bombayventures.at/about.html</loc>
-    <lastmod>2016-09-09</lastmod>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bombayventures.at/assets/llp-01.png</loc>
-    <lastmod>2016-08-24</lastmod>
+    <loc>http://bombayventures.at/images/mirror-01.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bombayventures.at/assets/ventures-01.png</loc>
-    <lastmod>2016-08-24</lastmod>
+    <loc>http://bombayventures.at/images/bigdata-01.png</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bombayventures.at/assets/tarpa1-01.png</loc>
-    <lastmod>2016-08-23</lastmod>
+    <loc>http://bombayventures.at/images/rockmetric-logo%20copy.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bombayventures.at/assets/insights-01-01.png</loc>
-    <lastmod>2016-08-25</lastmod>
+    <loc>http://bombayventures.at/images/e4105df7c487d6ab89dd8e814fc6fec6.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/vphrase_logo_large.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/1468500664.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/landingpage2.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/nxg.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/client-logo-6.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/waybeo-new-logo-large.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/hardware-01.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/algo-engines5750ff1c4645c_1.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/no-name-150x150.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/logo-wingage.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/capture-01.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/connect-01.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/senwise-01.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/iownlogowhite.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/shopholix-logo.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/flexi-loan-logo-final.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/lauxpplis_logo.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/saral%20design%20logo.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/cyjnhqqa.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/collab%20logo.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/premat%20workpack.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/logo%20(2).png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/quickmetrix.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/triangle2-01.png</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bombayventures.at/images/facebook.svg</loc>
-    <lastmod>2016-09-09</lastmod>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bombayventures.at/images/google-plus.svg</loc>
-    <lastmod>2016-09-09</lastmod>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bombayventures.at/assets/bigdata-01.png</loc>
-    <lastmod>2016-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bombayventures.at/assets/hardware-01.png</loc>
-    <lastmod>2016-08-26</lastmod>
+    <loc>http://bombayventures.at/images/twitter.svg</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -91,8 +277,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bombayventures.at/assets/503475894.mp4</loc>
-    <lastmod>2016-08-17</lastmod>
+    <loc>http://bombayventures.at/images/search-01.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/suspension-bridge-390822_1920%20copy.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/logo-01.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/logo.png</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -103,8 +307,50 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bombayventures.at/images/twitter.svg</loc>
-    <lastmod>2016-09-09</lastmod>
+    <loc>http://bombayventures.at/assets/ventures-01.png</loc>
+    <lastmod>2016-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/assets/llp-01.png</loc>
+    <lastmod>2016-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/assets/insights-01-01.png</loc>
+    <lastmod>2016-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/assets/tarpa1-01.png</loc>
+    <lastmod>2016-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/assets/hardware-01.png</loc>
+    <lastmod>2016-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/hqdefault.jpg</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/assets/bigdata-01.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bombayventures.at/images/consumer%20goods-01.png</loc>
+    <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
