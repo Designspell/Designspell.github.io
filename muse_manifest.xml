@@ -1,134 +1,297 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bombayventures.at" resolutions="1x" timestamp="1473502555418">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="SPILL.COM" resolutions="1x" timestamp="1475166027123">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="417151259" ref="about:index:public-pvt:consumer:business:big-data:ventures:iot:services:contact:our-work:portfolio:company-a:insight"/>
-    <file name="about.css" crc="4173431435" ref="about"/>
-    <file name="index.css" crc="4102860022" ref="index"/>
-    <file name="public-pvt.css" crc="123385950" ref="public-pvt"/>
-    <file name="consumer.css" crc="4157547372" ref="consumer"/>
-    <file name="business.css" crc="4175845162" ref="business"/>
-    <file name="big-data.css" crc="70013966" ref="big-data"/>
-    <file name="ventures.css" crc="4075976785" ref="ventures"/>
-    <file name="iefonts_ventures.css" crc="343947795" ref="ventures"/>
-    <file name="iot.css" crc="4022612196" ref="iot"/>
-    <file name="services.css" crc="4123327534" ref="services"/>
-    <file name="contact.css" crc="3926180468" ref="contact"/>
-    <file name="our-work.css" crc="459444944" ref="our-work"/>
-    <file name="portfolio.css" crc="456112309" ref="portfolio"/>
-    <file name="company-a.css" crc="4052588056" ref="company-a"/>
-    <file name="iefonts_company-a.css" crc="3792631942" ref="company-a"/>
-    <file name="insight.css" crc="333988892" ref="insight"/>
+    <file name="master_a-master.css" crc="3882829348" ref="consumer:insight:portfolio:about:business:big-data:ventures:contact:iot:public-pvt:our-work"/>
+    <file name="nomq_preview_master_a-master.css" crc="4126170573" ref="consumer:insight:portfolio:about:business:big-data:ventures:contact:iot:public-pvt:our-work"/>
+    <file name="master_b-master.css" crc="4287668475" ref="index"/>
+    <file name="nomq_preview_master_b-master.css" crc="108537158" ref="index"/>
+    <file name="consumer.css" crc="226010581" ref="consumer"/>
+    <file name="nomq_consumer.css" crc="3848660453" ref="consumer"/>
+    <file name="iefonts_consumer.css" crc="3824530138" ref="consumer"/>
+    <file name="insight.css" crc="112770735" ref="insight"/>
+    <file name="nomq_insight.css" crc="186199689" ref="insight"/>
+    <file name="iefonts_insight.css" crc="3824530138" ref="insight"/>
+    <file name="portfolio.css" crc="110313027" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3949158073" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="3824530138" ref="portfolio"/>
+    <file name="about.css" crc="270122377" ref="about"/>
+    <file name="nomq_about.css" crc="189245785" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="business.css" crc="3820558104" ref="business"/>
+    <file name="nomq_business.css" crc="482475559" ref="business"/>
+    <file name="iefonts_business.css" crc="3824530138" ref="business"/>
+    <file name="big-data.css" crc="362372852" ref="big-data"/>
+    <file name="nomq_big-data.css" crc="86647340" ref="big-data"/>
+    <file name="iefonts_big-data.css" crc="3824530138" ref="big-data"/>
+    <file name="ventures.css" crc="129540401" ref="ventures"/>
+    <file name="nomq_ventures.css" crc="3809324600" ref="ventures"/>
+    <file name="iefonts_ventures.css" crc="3824530138" ref="ventures"/>
+    <file name="contact.css" crc="3771433538" ref="contact"/>
+    <file name="nomq_contact.css" crc="120433350" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+    <file name="iot.css" crc="4000535195" ref="iot"/>
+    <file name="nomq_iot.css" crc="4058423328" ref="iot"/>
+    <file name="iefonts_iot.css" crc="3824530138" ref="iot"/>
+    <file name="public-pvt.css" crc="126827284" ref="public-pvt"/>
+    <file name="nomq_public-pvt.css" crc="4145975737" ref="public-pvt"/>
+    <file name="iefonts_public-pvt.css" crc="3824530138" ref="public-pvt"/>
+    <file name="our-work.css" crc="4273412208" ref="our-work"/>
+    <file name="nomq_our-work.css" crc="479937185" ref="our-work"/>
+    <file name="iefonts_our-work.css" crc="3824530138" ref="our-work"/>
+    <file name="index.css" crc="4253468600" ref="index"/>
+    <file name="nomq_index.css" crc="214241072" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="bigdata-01.png" crc="4136518493" seo="true" mt="1473480837000"/>
-    <file name="consumer-goods-01.png" crc="4004825747" seo="true" mt="1472150216000"/>
-    <file name="hardware-01.png" crc="481512412" seo="true" mt="1472150887000"/>
-    <file name="tarpa1-01.png" crc="4272103993" seo="true" mt="1471955579000"/>
-    <file name="insights-01-01.png" crc="4181420020" seo="true" mt="1472145354000"/>
-    <file name="llp-01.png" crc="3971440379" seo="true" mt="1472040267000"/>
-    <file name="ventures-01.png" crc="304212298" seo="true" mt="1472039850000"/>
-    <file name="mumbai---a-short-time-lapse-film-(1080p_25fps_h264-128kbit_aac)_x264.mp4" crc="4166443272" seo="true" mt="1473364154000"/>
+    <file name="bigdata-01.png" crc="4136518493" seo="true" mt="1473501004000"/>
+    <file name="hardware-01.png" crc="481512412" seo="true" mt="1473501004000"/>
+    <file name="consumer-goods-01.png" crc="4004825747" seo="true" mt="1473501004000"/>
+    <file name="tarpa1-01.png" crc="4272103993" seo="true" mt="1473501004000"/>
+    <file name="insights-01-01.png" crc="4181420020" seo="true" mt="1473501004000"/>
+    <file name="ventures-01.png" crc="304212298" seo="true" mt="1473501004000"/>
+    <file name="llp-01.png" crc="3971440379" seo="true" mt="1473501004000"/>
+    <file name="mumbai---a-short-time-lapse-film-(1080p_25fps_h264-128kbit_aac)_x264.mp4" crc="4166443272" seo="true" mt="1473501004000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="museutils.js" crc="3851988764" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="museconfig.js" crc="169177150" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="webpro.js" crc="4067903014" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="musewpslideshow.js" crc="4265225696" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="touchswipe.js" crc="474750357" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:portfolio:big-data:iot:consumer:business"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="require.js" crc="4108833657" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="pie.js" crc="3831537696" ref="about:big-data:iot:consumer:business:company-a"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="museutils.js" crc="3851988764" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="museconfig.js" crc="169177150" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="pie.js" crc="3831537696" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="webpro.js" crc="4067903014" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="require.js" crc="4108833657" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="contact:portfolio:big-data:iot:consumer:business"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="big-data:iot:consumer:business"/>
   </folder>
   <folder name="images">
-    <file name="u312-4.png" crc="20990082" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="u387-4.png" crc="230867860" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="u390-4.png" crc="412568679" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="u393-4.png" crc="3993948565" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="logo.png" crc="4070220572" seo="true" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
-    <file name="our work button-u607-fr.png" crc="4102017718" ref="index"/>
-    <file name="our work button-u607-r-fr.png" crc="349684022" ref="index"/>
-    <file name="our work button-u607-a-fr.png" crc="4065256433" ref="index"/>
-    <file name="portfolio button-u573-fr.png" crc="3887137200" ref="index"/>
-    <file name="portfolio button-u573-r-fr.png" crc="3925548513" ref="index"/>
-    <file name="portfolio button-u573-a-fr.png" crc="136061735" ref="index"/>
-    <file name="logo-01.png" crc="3966725777" seo="true" ref="index:about:contact:our-work:services:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business:company-a"/>
+    <file name="logo.png" crc="4070220572" seo="true" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="u312-4.png" crc="20990082" ref="index:about:big-data:our-work"/>
+    <file name="u387-4.png" crc="230867860" ref="index:about:big-data:our-work"/>
+    <file name="u390-4.png" crc="412568679" ref="index:about:big-data:our-work"/>
+    <file name="our work button-u607-fr.jpg" crc="3894224770" ref="index:about:big-data:our-work"/>
+    <file name="our work button-u607-r-fr.jpg" crc="4218815244" ref="index:about:big-data:our-work"/>
+    <file name="portfolio button-u573-fr.jpg" crc="211014462" ref="index:about:big-data:our-work"/>
+    <file name="portfolio button-u573-r-fr.jpg" crc="91557566" ref="index:about:big-data:our-work"/>
+    <file name="logo-01.png" crc="289540934" seo="true" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="slide_1.jpg" crc="328054752" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="slide_2.jpg" crc="4161278698" seo="true" ref="index"/>
+    <file name="slide_3.jpg" crc="329327567" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u32635.png" crc="4061877357" ref="index"/>
+    <file name="u32637.png" crc="4061877357" ref="index"/>
+    <file name="u32636.png" crc="4061877357" ref="index"/>
     <file name="suspension-bridge-390822_1920 copy.jpg" crc="302252550" seo="true" ref="about"/>
     <file name="fill 5-u1674.png" crc="27501736" ref="about"/>
-    <file name="u402-4.png" crc="221225257" ref="about"/>
+    <file name="u402-4.png" crc="3832171056" ref="about"/>
     <file name="u1717-4.png" crc="220019916" ref="about"/>
     <file name="u1720-4.png" crc="138726498" ref="about"/>
     <file name="u1723-4.png" crc="4084361159" ref="about"/>
     <file name="u1726-4.png" crc="248293354" ref="about"/>
-    <file name="search-01.jpg" crc="333188767" seo="true" ref="about"/>
-    <file name="capture-01.jpg" crc="4129593350" seo="true" ref="about"/>
-    <file name="connect-01.jpg" crc="4070653240" seo="true" ref="about"/>
+    <file name="search-01.jpg" crc="333188767" ref="about"/>
+    <file name="capture-01.jpg" crc="4129593350" ref="about"/>
+    <file name="connect-01.jpg" crc="4070653240" ref="about"/>
     <file name="mirror-01.jpg" crc="133590990" seo="true" ref="about"/>
-    <file name="u1084-4.png" crc="140114361" ref="our-work"/>
+    <file name="u402-42.png" crc="3832171056" ref="about"/>
+    <file name="fill 5-u16742.png" crc="27501736" ref="about"/>
+    <file name="u1717-42.png" crc="3807814916" ref="about"/>
+    <file name="u1720-42.png" crc="190100328" ref="about"/>
+    <file name="u1723-42.png" crc="4058592963" ref="about"/>
+    <file name="u1726-42.png" crc="117257976" ref="about"/>
+    <file name="mirror-012.jpg" crc="133590990" ref="about"/>
+    <file name="u30360.png" crc="4061877357" ref="about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="u30383.png" crc="4061877357" ref="about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="u30393.png" crc="4061877357" ref="about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="suspension-bridge-390822_1920 copy440x293.jpg" crc="98613469" seo="true" ref="about"/>
+    <file name="u402-43.png" crc="296240542" ref="about"/>
+    <file name="u1717-43.png" crc="4093648542" ref="about"/>
+    <file name="u1720-43.png" crc="399334453" ref="about"/>
+    <file name="u1723-43.png" crc="4160556825" ref="about"/>
+    <file name="u1726-43.png" crc="117257976" ref="about"/>
+    <file name="linked_1.jpg" crc="154366822" ref="contact"/>
+    <file name="linked_2.jpg" crc="13139251" ref="contact"/>
+    <file name="linked_1-u20788-fr.jpg" crc="4291069512" ref="contact"/>
+    <file name="linked_2-u20788-r-fr.jpg" crc="4006553763" ref="contact"/>
+    <file name="linked_1-u20788-fr2.jpg" crc="3917190027" ref="contact"/>
+    <file name="linked_2-u20788-r-fr2.jpg" crc="152722022" ref="contact"/>
+    <file name="u1084-4.png" crc="4231939754" ref="our-work"/>
+    <file name="u1084-42.png" crc="3790541160" ref="our-work"/>
+    <file name="u1084-43.png" crc="37318986" ref="our-work"/>
     <file name="request button-u2414-fr.png" crc="152061594" ref="portfolio:big-data:iot:consumer:business"/>
     <file name="request button-u2414-r-fr.png" crc="394576073" ref="portfolio:big-data:iot:consumer:business"/>
     <file name="u1971-4.png" crc="32473197" ref="ventures"/>
-    <file name="u2020-4.png" crc="3876160437" ref="ventures"/>
-    <file name="u2031-4.png" crc="222592817" ref="ventures"/>
-    <file name="u2040-4.png" crc="3875387333" ref="ventures"/>
-    <file name="u2048-4.png" crc="183480253" ref="ventures"/>
+    <file name="u1971-42.png" crc="4241565932" ref="ventures"/>
+    <file name="u1971-43.png" crc="330888423" ref="ventures"/>
     <file name="u2388-4.png" crc="4233703882" ref="public-pvt"/>
+    <file name="u2388-42.png" crc="3925339507" ref="public-pvt"/>
+    <file name="u2388-43.png" crc="19408107" ref="public-pvt"/>
     <file name="u1965-4.png" crc="483072313" ref="insight"/>
-    <file name="bigdata-01.png" crc="4074857606" seo="true" ref="big-data:company-a"/>
+    <file name="u1965-42.png" crc="483072313" ref="insight"/>
+    <file name="u1965-43.png" crc="3849768109" ref="insight"/>
+    <file name="bigdata-01.png" crc="4074857606" seo="true" ref="big-data"/>
     <file name="u2555-4.png" crc="3764466752" ref="big-data"/>
     <file name="rockmetric-logo copy.jpg" crc="3829939354" seo="true" ref="big-data"/>
     <file name="e4105df7c487d6ab89dd8e814fc6fec6.jpg" crc="4272813832" seo="true" ref="big-data"/>
-    <file name="vphrase_logo_large.jpg" crc="3802685166" seo="true" ref="big-data:company-a"/>
+    <file name="vphrase_logo_large.jpg" crc="3802685166" seo="true" ref="big-data"/>
     <file name="1468500664.png" crc="3867947420" seo="true" ref="big-data"/>
     <file name="landingpage2.jpg" crc="3810203851" seo="true" ref="big-data"/>
     <file name="nxg.png" crc="3934971187" seo="true" ref="big-data"/>
     <file name="client-logo-6.png" crc="3895610162" seo="true" ref="big-data"/>
     <file name="waybeo-new-logo-large.png" crc="4003966514" seo="true" ref="big-data"/>
+    <file name="u24665-4.png" crc="4010522372" ref="big-data"/>
+    <file name="triangle2-01.png" crc="520960096" seo="true" ref="big-data:iot:consumer:business"/>
+    <file name="u33942-4.png" crc="154309890" ref="big-data"/>
+    <file name="rockmetric-logo copy2.jpg" crc="3829939354" seo="true" ref="big-data"/>
+    <file name="u33763-4.png" crc="69627675" ref="big-data"/>
+    <file name="u34121-4.png" crc="4039640388" ref="big-data"/>
+    <file name="u34300-4.png" crc="4171133263" ref="big-data"/>
+    <file name="u34479-4.png" crc="4021569317" ref="big-data"/>
+    <file name="landingpage22.jpg" crc="3810203851" seo="true" ref="big-data"/>
+    <file name="u34658-4.png" crc="374681754" ref="big-data"/>
+    <file name="u35028-4.png" crc="516897423" ref="big-data"/>
+    <file name="nxg2.png" crc="3934971187" seo="true" ref="big-data"/>
+    <file name="u2555-42.png" crc="3764466752" ref="big-data"/>
+    <file name="u24665-42.png" crc="4010522372" ref="big-data"/>
+    <file name="u33942-42.png" crc="154309890" ref="big-data"/>
+    <file name="u33763-42.png" crc="69627675" ref="big-data"/>
+    <file name="u34121-42.png" crc="4039640388" ref="big-data"/>
+    <file name="u34300-42.png" crc="4171133263" ref="big-data"/>
+    <file name="u34479-42.png" crc="4021569317" ref="big-data"/>
+    <file name="u34658-42.png" crc="374681754" ref="big-data"/>
+    <file name="u35028-42.png" crc="516897423" ref="big-data"/>
+    <file name="u2555-43.png" crc="4059381842" ref="big-data"/>
+    <file name="u24665-43.png" crc="378922347" ref="big-data"/>
+    <file name="u33942-43.png" crc="4034269385" ref="big-data"/>
+    <file name="u33763-43.png" crc="422790462" ref="big-data"/>
+    <file name="u34121-43.png" crc="3853138370" ref="big-data"/>
+    <file name="u34300-43.png" crc="4210743910" ref="big-data"/>
+    <file name="u34479-43.png" crc="4231677397" ref="big-data"/>
+    <file name="u34658-43.png" crc="130413758" ref="big-data"/>
+    <file name="u35028-43.png" crc="3888152550" ref="big-data"/>
+    <file name="u2555-44.png" crc="4115997227" ref="big-data"/>
+    <file name="u24665-44.png" crc="3972997174" ref="big-data"/>
+    <file name="u33942-44.png" crc="3769123763" ref="big-data"/>
+    <file name="u33763-44.png" crc="3791984724" ref="big-data"/>
+    <file name="u34121-44.png" crc="193144923" ref="big-data"/>
+    <file name="u34300-44.png" crc="292069989" ref="big-data"/>
+    <file name="u34479-44.png" crc="299566401" ref="big-data"/>
+    <file name="u34658-44.png" crc="3834462037" ref="big-data"/>
+    <file name="u35028-44.png" crc="4150658797" ref="big-data"/>
     <file name="hardware-01.png" crc="173427030" seo="true" ref="iot"/>
-    <file name="u2808-4.png" crc="4104106127" ref="iot"/>
+    <file name="u2808-4.png" crc="4068375840" ref="iot"/>
     <file name="algo-engines5750ff1c4645c_1.jpg" crc="3788512816" seo="true" ref="iot"/>
     <file name="no-name-150x150.jpg" crc="4166721981" seo="true" ref="iot"/>
     <file name="logo-wingage.jpg" crc="4244167266" seo="true" ref="iot"/>
-    <file name="bleetech orange-u2939.png" crc="18675611" ref="iot"/>
+    <file name="bleetech orange-u2939.jpg" crc="4051150602" seo="true" ref="iot"/>
     <file name="hqdefault.jpg" crc="514704241" seo="true" ref="iot"/>
+    <file name="u42486-4.png" crc="371754546" ref="iot"/>
+    <file name="u42449-4.png" crc="215292770" ref="iot"/>
+    <file name="u42440-4.png" crc="4038697437" ref="iot"/>
+    <file name="u42456-4.png" crc="4272363782" ref="iot"/>
+    <file name="u42465-4.png" crc="4234356150" ref="iot"/>
+    <file name="u2808-42.png" crc="4104106127" ref="iot"/>
+    <file name="u42486-42.png" crc="371754546" ref="iot"/>
+    <file name="u42449-42.png" crc="215292770" ref="iot"/>
+    <file name="u42440-42.png" crc="4038697437" ref="iot"/>
+    <file name="u42456-42.png" crc="4272363782" ref="iot"/>
+    <file name="u42465-42.png" crc="4234356150" ref="iot"/>
+    <file name="u2808-43.png" crc="4104106127" ref="iot"/>
+    <file name="u42486-43.png" crc="441150254" ref="iot"/>
+    <file name="u42449-43.png" crc="506215208" ref="iot"/>
+    <file name="u42440-43.png" crc="433138836" ref="iot"/>
+    <file name="u42456-43.png" crc="443968598" ref="iot"/>
+    <file name="u42465-43.png" crc="50220083" ref="iot"/>
+    <file name="u2808-44.png" crc="3953452400" ref="iot"/>
+    <file name="u42486-44.png" crc="123665481" ref="iot"/>
+    <file name="u42449-44.png" crc="4149620263" ref="iot"/>
+    <file name="u42440-44.png" crc="3787605666" ref="iot"/>
+    <file name="u42456-44.png" crc="3941695377" ref="iot"/>
+    <file name="u42465-44.png" crc="531111767" ref="iot"/>
     <file name="consumer goods-01.png" crc="4044108479" seo="true" ref="consumer:business"/>
-    <file name="u2982-4.png" crc="91489571" ref="consumer"/>
+    <file name="u2982-4.png" crc="127704292" ref="consumer"/>
     <file name="senwise-01.jpg" crc="144100732" seo="true" ref="consumer"/>
     <file name="iownlogowhite.png" crc="14341121" seo="true" ref="consumer"/>
-    <file name="shopholix-logo.png" crc="4248409645" seo="true" ref="consumer"/>
     <file name="flexi-loan-logo-final.jpg" crc="3821868763" seo="true" ref="consumer"/>
+    <file name="shopholix-logo.png" crc="4248409645" seo="true" ref="consumer"/>
+    <file name="shopholix-logo-u3155-r-fr.png" crc="69285222" ref="consumer"/>
     <file name="lauxpplis_logo.jpg" crc="3897503384" seo="true" ref="consumer"/>
-    <file name="saral design logo.jpg" crc="268545064" seo="true" ref="consumer"/>
     <file name="cyjnhqqa.jpg" crc="106251276" seo="true" ref="consumer"/>
+    <file name="saral design logo.jpg" crc="268545064" seo="true" ref="consumer"/>
+    <file name="saral design logo-u3150-r-fr.png" crc="156189946" ref="consumer"/>
+    <file name="u48641-4.png" crc="267433140" ref="consumer"/>
+    <file name="u48617-4.png" crc="28431313" ref="consumer"/>
+    <file name="u48608-4.png" crc="4202152294" ref="consumer"/>
+    <file name="u48624-4.png" crc="26908591" ref="consumer"/>
+    <file name="iownlogowhite2.png" crc="14341121" seo="true" ref="consumer"/>
+    <file name="u48633-4.png" crc="142627546" ref="consumer"/>
+    <file name="u49491-4.png" crc="141328689" ref="consumer"/>
+    <file name="u49596-4.png" crc="285188641" ref="consumer"/>
+    <file name="u2982-42.png" crc="91489571" ref="consumer"/>
+    <file name="u48641-42.png" crc="267433140" ref="consumer"/>
+    <file name="u48617-42.png" crc="28431313" ref="consumer"/>
+    <file name="u48608-42.png" crc="4202152294" ref="consumer"/>
+    <file name="u48624-42.png" crc="26908591" ref="consumer"/>
+    <file name="u48633-42.png" crc="142627546" ref="consumer"/>
+    <file name="u49491-42.png" crc="141328689" ref="consumer"/>
+    <file name="u49596-42.png" crc="285188641" ref="consumer"/>
+    <file name="u2982-43.png" crc="91489571" ref="consumer"/>
+    <file name="u48641-43.png" crc="9853466" ref="consumer"/>
+    <file name="u48617-43.png" crc="239789262" ref="consumer"/>
+    <file name="u48608-43.png" crc="3796685409" ref="consumer"/>
+    <file name="u48624-43.png" crc="284112619" ref="consumer"/>
+    <file name="u48633-43.png" crc="3957358173" ref="consumer"/>
+    <file name="u49491-43.png" crc="362373951" ref="consumer"/>
+    <file name="u49596-43.png" crc="267986857" ref="consumer"/>
+    <file name="u2982-44.png" crc="408210125" ref="consumer"/>
+    <file name="u48641-44.png" crc="3814171239" ref="consumer"/>
+    <file name="u48617-44.png" crc="4248501449" ref="consumer"/>
+    <file name="u48608-44.png" crc="60224251" ref="consumer"/>
+    <file name="u48624-44.png" crc="365168980" ref="consumer"/>
+    <file name="u48633-44.png" crc="4200878458" ref="consumer"/>
+    <file name="u49491-44.png" crc="491071422" ref="consumer"/>
+    <file name="u49596-44.png" crc="22849411" ref="consumer"/>
     <file name="u3251-4.png" crc="241639718" ref="business"/>
     <file name="collab logo.png" crc="4239028484" seo="true" ref="business"/>
     <file name="premat workpack.jpg" crc="18077256" seo="true" ref="business"/>
     <file name="logo (2).png" crc="4255688519" seo="true" ref="business"/>
     <file name="quickmetrix.jpg" crc="3879175596" seo="true" ref="business"/>
-    <file name="u3474-4.png" crc="535383521" ref="company-a"/>
-    <file name="triangle2-01.png" crc="520960096" seo="true" ref="company-a"/>
-    <file name="facebook.svg" crc="4242405670" seo="true" ref="company-a"/>
-    <file name="facebook_poster_.png" crc="285498815" ref="company-a"/>
-    <file name="google-plus.svg" crc="510462209" seo="true" ref="company-a"/>
-    <file name="google-plus_poster_.png" crc="279187442" ref="company-a"/>
-    <file name="twitter.svg" crc="4033200823" seo="true" ref="company-a"/>
-    <file name="twitter_poster_.png" crc="4054817622" ref="company-a"/>
+    <file name="u56373-4.png" crc="251727833" ref="business"/>
+    <file name="u56358-4.png" crc="256399138" ref="business"/>
+    <file name="u56349-4.png" crc="4028398337" ref="business"/>
+    <file name="u56365-4.png" crc="3933633639" ref="business"/>
+    <file name="u3251-42.png" crc="241639718" ref="business"/>
+    <file name="u56373-42.png" crc="251727833" ref="business"/>
+    <file name="u56358-42.png" crc="256399138" ref="business"/>
+    <file name="u56349-42.png" crc="4028398337" ref="business"/>
+    <file name="u56365-42.png" crc="3933633639" ref="business"/>
+    <file name="u3251-43.png" crc="241639718" ref="business"/>
+    <file name="u56373-43.png" crc="4162120800" ref="business"/>
+    <file name="u56358-43.png" crc="3841588586" ref="business"/>
+    <file name="u56349-43.png" crc="1116849" ref="business"/>
+    <file name="u56365-43.png" crc="4045623164" ref="business"/>
+    <file name="u3251-44.png" crc="329385012" ref="business"/>
+    <file name="u56373-44.png" crc="4053746388" ref="business"/>
+    <file name="u56358-44.png" crc="4220687097" ref="business"/>
+    <file name="u56349-44.png" crc="101741899" ref="business"/>
+    <file name="u56365-44.png" crc="4268607922" ref="business"/>
   </folder>
-  <file name="index.html" crc="279487091" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="about.html" crc="3849761154" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="contact.html" crc="267983196" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="our-work.html" crc="71107578" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="services.html" crc="3985492703" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="portfolio.html" crc="4006809749" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="ventures.html" crc="296910951" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="public-pvt.html" crc="280052688" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="insight.html" crc="299200398" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="big-data.html" crc="33948387" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="iot.html" crc="310354455" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="consumer.html" crc="4103655257" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="business.html" crc="510494036" seo="true" mt="1473502531394" redirect="true"/>
-  <file name="company-a.html" crc="3870090469" seo="true" mt="1473502531394" redirect="true"/>
+  <file name="index.html" crc="3964438992" seo="true" mt="1475166012033" redirect="true"/>
+  <file name="about.html" crc="510109028" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="contact.html" crc="4155716270" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="our-work.html" crc="368658094" seo="true" mt="1475165810858" redirect="true"/>
+  <file name="portfolio.html" crc="481129831" seo="true" mt="1475165845762" redirect="true"/>
+  <file name="ventures.html" crc="4056305503" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="public-pvt.html" crc="4133445584" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="insight.html" crc="3831132330" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="big-data.html" crc="4151922836" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="iot.html" crc="372765838" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="consumer.html" crc="459970540" seo="true" mt="1475162568741" redirect="true"/>
+  <file name="business.html" crc="296879612" seo="true" mt="1475165419435" redirect="true"/>
 </manifest>
