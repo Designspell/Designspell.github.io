@@ -17,13 +17,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Business</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3916556066"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4023038982"/>
-  <link rel="stylesheet" type="text/css" href="css/business.css?crc=3820558104" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=297069268"/>
+  <link rel="stylesheet" type="text/css" href="css/business.css?crc=4070965817" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_business.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=4126170573"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_business.css?crc=482475559" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3764057957"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_business.css?crc=173678407" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -525,7 +525,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
        <div class="popup_anchor" id="u32009popup">
         <div class="ContainerGroup clearfix" id="u32009"><!-- stack box -->
-         <div class="Container clearfix grpelem" id="u32010"><!-- group -->
+         <div class="Container invi clearfix grpelem" id="u32010"><!-- group -->
           <nav class="MenuBar clearfix grpelem" id="menuu32109"><!-- vertical box -->
            <div class="MenuItemContainer borderbox clearfix colelem" id="u32110"><!-- horizontal box -->
             <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u32113" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u32115-4"><!-- content --><p>Home</p></div></a>
@@ -703,9 +703,9 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1200', '#bp_768', '#bp_480'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#pamphletu32004', ['#bp_480'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu32004 */
+Muse.Utils.initWidget('#pamphletu32004', ['#bp_480'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu32004 */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u56395-4').registerOpacityScrollEffect([{"fade":500.1750000000002,"in":[-Infinity,1050.18],"opacity":0},{"in":[1050.18,1050.18],"opacity":100},{"fade":50,"in":[1050.18,Infinity],"opacity":100}], $(this)); /* scroll effect */
+$('#u56395-4').registerOpacityScrollEffect([{"in":[-Infinity,1050.18],"fade":500.18,"opacity":0},{"in":[1050.18,1050.18],"opacity":100},{"in":[1050.18,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

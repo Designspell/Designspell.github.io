@@ -17,13 +17,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Consumer</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3916556066"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4023038982"/>
-  <link rel="stylesheet" type="text/css" href="css/consumer.css?crc=226010581" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=297069268"/>
+  <link rel="stylesheet" type="text/css" href="css/consumer.css?crc=4191396589" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_consumer.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=4126170573"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_consumer.css?crc=3848660453" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3764057957"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_consumer.css?crc=401802792" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -848,7 +848,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
        <div class="popup_anchor" id="u32009popup">
         <div class="ContainerGroup clearfix" id="u32009"><!-- stack box -->
-         <div class="Container clearfix grpelem" id="u32010"><!-- group -->
+         <div class="Container invi clearfix grpelem" id="u32010"><!-- group -->
           <nav class="MenuBar clearfix grpelem" id="menuu32109"><!-- vertical box -->
            <div class="MenuItemContainer borderbox clearfix colelem" id="u32110"><!-- horizontal box -->
             <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u32113" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u32115-4"><!-- content --><p>Home</p></div></a>
@@ -905,7 +905,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <img class="colelem temp_no_id temp_no_img_src" alt="FlexiLoans" data-orig-src="images/u48641-44.png?crc=3814171239" data-image-width="139" data-orig-id="u48641-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu49700"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u49700"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/flexi-loan-logo-final.jpg?crc=3821868763" alt="" data-image-width="94" data-image-height="35" data-orig-id="u49700_img" src="images/blank.gif?crc=4208392903"/>
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/flexi-loan-logo-final.jpg?crc=3821868763" alt="" data-image-width="95" data-image-height="35" data-orig-id="u49700_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u48642-8_content"><!-- placeholder node --></span>
      </div>
@@ -1123,9 +1123,9 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1200', '#bp_768', '#bp_480'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#pamphletu32004', ['#bp_480'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu32004 */
+Muse.Utils.initWidget('#pamphletu32004', ['#bp_480'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu32004 */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u51533-4').registerOpacityScrollEffect([{"fade":500,"in":[-Infinity,1050],"opacity":0},{"in":[1050,1050],"opacity":100},{"fade":50,"in":[1050,Infinity],"opacity":100}], $(this)); /* scroll effect */
+$('#u51533-4').registerOpacityScrollEffect([{"in":[-Infinity,1050],"fade":500,"opacity":0},{"in":[1050,1050],"opacity":100},{"in":[1050,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
