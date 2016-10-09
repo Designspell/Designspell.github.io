@@ -1,44 +1,44 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="SPILL.COM" resolutions="1x" timestamp="1475691935516">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="SPILL.COM" resolutions="1x" timestamp="1475926413900">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="398263209" ref="iot:public-pvt:our-work:consumer:insight:portfolio:about:business:big-data:ventures:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="3852661313" ref="iot:public-pvt:our-work:consumer:insight:portfolio:about:business:big-data:ventures:contact"/>
+    <file name="master_a-master.css" crc="4134914326" ref="iot:public-pvt:our-work:consumer:insight:portfolio:about:business:big-data:ventures:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="3764057957" ref="iot:public-pvt:our-work:consumer:insight:portfolio:about:business:big-data:ventures:contact"/>
     <file name="master_b-master.css" crc="3829771277" ref="index"/>
     <file name="nomq_preview_master_b-master.css" crc="3760949766" ref="index"/>
-    <file name="iot.css" crc="4244412768" ref="iot"/>
+    <file name="iot.css" crc="4145732863" ref="iot"/>
     <file name="nomq_iot.css" crc="4209885244" ref="iot"/>
     <file name="iefonts_iot.css" crc="3824530138" ref="iot"/>
-    <file name="public-pvt.css" crc="4068059735" ref="public-pvt"/>
+    <file name="public-pvt.css" crc="3858129189" ref="public-pvt"/>
     <file name="nomq_public-pvt.css" crc="4145975737" ref="public-pvt"/>
     <file name="iefonts_public-pvt.css" crc="3824530138" ref="public-pvt"/>
-    <file name="our-work.css" crc="225828357" ref="our-work"/>
+    <file name="our-work.css" crc="388054118" ref="our-work"/>
     <file name="nomq_our-work.css" crc="479937185" ref="our-work"/>
     <file name="iefonts_our-work.css" crc="3824530138" ref="our-work"/>
-    <file name="index.css" crc="3819013547" ref="index"/>
-    <file name="nomq_index.css" crc="3761404914" ref="index"/>
+    <file name="index.css" crc="3923030299" ref="index"/>
+    <file name="nomq_index.css" crc="115634056" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="consumer.css" crc="4191396589" ref="consumer"/>
+    <file name="consumer.css" crc="4266087628" ref="consumer"/>
     <file name="nomq_consumer.css" crc="401802792" ref="consumer"/>
     <file name="iefonts_consumer.css" crc="3824530138" ref="consumer"/>
-    <file name="insight.css" crc="4211437653" ref="insight"/>
+    <file name="insight.css" crc="3874090101" ref="insight"/>
     <file name="nomq_insight.css" crc="186199689" ref="insight"/>
     <file name="iefonts_insight.css" crc="3824530138" ref="insight"/>
-    <file name="portfolio.css" crc="4016217786" ref="portfolio"/>
+    <file name="portfolio.css" crc="235518483" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="3949158073" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="3824530138" ref="portfolio"/>
-    <file name="about.css" crc="274665954" ref="about"/>
+    <file name="about.css" crc="4244976505" ref="about"/>
     <file name="nomq_about.css" crc="189245785" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="business.css" crc="4070965817" ref="business"/>
+    <file name="business.css" crc="84651574" ref="business"/>
     <file name="nomq_business.css" crc="173678407" ref="business"/>
     <file name="iefonts_business.css" crc="3824530138" ref="business"/>
-    <file name="big-data.css" crc="3884549913" ref="big-data"/>
+    <file name="big-data.css" crc="378964651" ref="big-data"/>
     <file name="nomq_big-data.css" crc="3906155913" ref="big-data"/>
     <file name="iefonts_big-data.css" crc="3824530138" ref="big-data"/>
-    <file name="ventures.css" crc="347811069" ref="ventures"/>
+    <file name="ventures.css" crc="314994676" ref="ventures"/>
     <file name="nomq_ventures.css" crc="3809324600" ref="ventures"/>
     <file name="iefonts_ventures.css" crc="3824530138" ref="ventures"/>
-    <file name="contact.css" crc="4163759269" ref="contact"/>
+    <file name="contact.css" crc="391811953" ref="contact"/>
     <file name="nomq_contact.css" crc="120433350" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
   </folder>
@@ -79,8 +79,12 @@
     <file name="our work button-u607-r-fr.png" crc="349684022" ref="index:about:big-data"/>
     <file name="portfolio button-u573-fr.png" crc="3887137200" ref="index:about:big-data"/>
     <file name="portfolio button-u573-r-fr.png" crc="3925548513" ref="index:about:big-data"/>
+    <file name="mute.jpg" crc="4257369541" seo="true" ref="index"/>
     <file name="logo-01.png" crc="289540934" seo="true" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="slide_1_1.jpg" crc="4218292364" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:contact:our-work:portfolio:ventures:public-pvt:insight:big-data:iot:consumer:business"/>
+    <file name="slide_2_2.jpg" crc="224786461" seo="true" ref="index"/>
+    <file name="slide_3_3.jpg" crc="4250401373" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u32635.png" crc="4061877357" ref="index"/>
     <file name="u32637.png" crc="4061877357" ref="index"/>
@@ -278,20 +282,17 @@
     <file name="u56358-44.png" crc="4220687097" ref="business"/>
     <file name="u56349-44.png" crc="101741899" ref="business"/>
     <file name="u56365-44.png" crc="4268607922" ref="business"/>
-    <file name="slide_1_1.jpg" crc="4218292364" seo="true" ref="index"/>
-    <file name="slide_2_2.jpg" crc="224786461" seo="true" ref="index"/>
-    <file name="slide_3_3.jpg" crc="4250401373" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4203527898" seo="true" mt="1475691827771" redirect="true"/>
-  <file name="about.html" crc="436114811" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="contact.html" crc="231504408" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="our-work.html" crc="405536856" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="portfolio.html" crc="4199118401" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="ventures.html" crc="22190191" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="public-pvt.html" crc="3803232112" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="insight.html" crc="381748018" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="big-data.html" crc="534059600" seo="true" mt="1475691854029" redirect="true"/>
-  <file name="iot.html" crc="3825337252" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="consumer.html" crc="3834530886" seo="true" mt="1475691169201" redirect="true"/>
-  <file name="business.html" crc="4191103752" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="index.html" crc="376693173" seo="true" mt="1475926347668" redirect="true"/>
+  <file name="about.html" crc="65246731" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="contact.html" crc="24898289" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="our-work.html" crc="311289179" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="portfolio.html" crc="4204895161" seo="true" mt="1475925710712" redirect="true"/>
+  <file name="ventures.html" crc="188799360" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="public-pvt.html" crc="120763494" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="insight.html" crc="46787725" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="big-data.html" crc="383048180" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="iot.html" crc="271962323" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="consumer.html" crc="3846319368" seo="true" mt="1475691169201" redirect="true"/>
+  <file name="business.html" crc="534344404" seo="true" mt="1475691169201" redirect="true"/>
 </manifest>
